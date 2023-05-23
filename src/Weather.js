@@ -30,7 +30,7 @@ export default function Weather() {
       </ul>
       <div class="row mt-3">
         <div class="col-6">
-          <div className="clearfix">
+          <div className="d-flex">
             <img
               src="https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png"
               alt="Weather Sunny"
